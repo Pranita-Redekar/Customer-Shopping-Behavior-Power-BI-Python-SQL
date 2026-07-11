@@ -44,6 +44,15 @@ The dashboard helps understand customer purchasing patterns, product preferences
 
 <hr>
 
+<h2>📂 Dataset</h2>
+
+<p>
+    <a href="https://github.com/Pranita-Redekar/Customer-Shopping-Behavior-Power-BI-Python-SQL/tree/main/Dataset" target="_blank">
+         View / Download Dataset 
+    </a>
+</p>
+<hr>
+
 <h2>📊 Dashboard Pages</h2>
 
 <h3>🏠 Home</h3>
@@ -161,6 +170,14 @@ The dashboard helps understand customer purchasing patterns, product preferences
     <li>Data Storytelling</li>
 </ul>
 
+<hr>
+<h2>🖼️ Output</h2>
+
+<p>
+    <a href="https://github.com/Pranita-Redekar/Customer-Shopping-Behavior-Power-BI-Python-SQL/tree/main/Output" target="_blank">
+         View / Download Output 
+    </a>
+</p>
 <hr>
 
 <h2>📚 What I Learned</h2>
